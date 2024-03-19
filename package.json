@@ -6,35 +6,28 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "are-arrays": "^1.0.0",
-    "are-objects": "^1.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bathuant/wrong-viptrade.git"
   },
-  "homepage": "https://github.com/bathuant",
+  "dependencies": {
+    "binh-an2015": "1.0.3",
+    "minh-anh19": "1.0.3",
+    "tong-puyen": "1.0.3",
+    "phuon-minh01": "1.0.3",
+    "hoa-hong": "1.0.3",
+    "nam-p94848": "1.0.3",
+    "phuong-an16": "1.0.3",
+    "wrong-viptrade": "1.0.3",
+    "hoadainhan-88": "1.0.3"
+    },
+ "homepage": "https://github.com/bathuant/",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
-    "dependencies": {
-    "@tensorflow/tfjs-core": "1.7.0",
-    "tslib": "^1.11.1",
-"sum-binhan": "1.0.3"
-"binh-an2015": "1.0.3"
-"minh-anh19": "1.0.3"
-"tong-puyen": "1.0.3"
-"phuon-minh01": "1.0.3"
-"hoa-hong": "1.0.3"
-"nam-p94848:" "1.0.3"
-"phuong-an16": "1.0.3"
-"wrong-viptrade": "1.0.3"
-"david-toi": "1.0.3"
-"phucbinh-an": "1.0.3"
-"minhan-1409": "1.0.3"
-  "author": "wrong-viptrade",
+  ],
+  "author": "bathuant",
   "license": "MIT"
 }
